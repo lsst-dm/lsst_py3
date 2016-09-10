@@ -1,0 +1,13 @@
+===============================================================================
+TEMPORARY PYTHON 3 PORTING
+===============================================================================
+
+This package is meant for internal use by CI only. It shall contain all
+Python 3 ported packages as dependencies.  Once all lsst_apps dependencies are
+ported this package is deprecated.
+
+-------------------------------------------------------------------------------
+
+ISSUES/TODO:
+ups
+	Add remaining dependencies.
